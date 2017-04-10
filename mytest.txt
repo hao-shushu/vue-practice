@@ -1,8 +1,0 @@
-this is my first test.
-the second pra....
-and the third.Git is a distributed version control system.
-Git is free software distributed under the GPL.
-
-
-第一次提交测试
-第二次未提交测试。。。。。。。。
