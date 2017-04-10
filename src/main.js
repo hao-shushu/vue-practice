@@ -8,7 +8,7 @@ Vue.prototype.$http = axios;
 const router = new VueRouter(require('./router'))
 
 new Vue({
-	el: '#app',
-	router: router,
-	render: h => h(App)
+    el: '#app',
+    router: router,
+    render: h => h(App)
 })
